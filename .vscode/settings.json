@@ -1,0 +1,7 @@
+{
+    "java.configuration.runtimes": [],
+    "java.project.sourcePaths": [
+     "src/main/java"
+ ]
+    
+}
